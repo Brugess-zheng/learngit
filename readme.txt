@@ -7,4 +7,5 @@ Git is free software distributed under the GPL EOF
 Git has a mutable index called stage.
 Git tracks changes of files
 Creating a new branch is quick and simple.
-greating a new branch is quick
+greating a new branch is quick is quick AND simple
+
